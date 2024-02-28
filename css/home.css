@@ -1,0 +1,100 @@
+body{
+    background-image:url('./../images/newbgimg.png');
+    background-image:cover;
+    margin:0;
+    padding:0;
+    background-position: center;
+    background-size: cover;
+}
+body{
+    background-image: url('./../images/newbgimg.png');
+      background-image: cover;
+      margin: 0;
+      padding: 0;
+      background-position: center;
+      background-size: cover;
+  }
+  .home_info{
+    font-size: 50px;
+    text-align: center;
+    color:white;
+    margin-top: 80px;
+  }
+  
+  .footer{
+      display: flex;
+      position: relative;
+     margin-top: 830px;
+     background-color:rgb(7, 95, 98);
+     color:white;  
+     height: 400px;
+     }
+     
+     .footer_A{
+      width: 280px;
+      height: 210px;
+      padding: 20px;
+      margin-top: 10px;
+      margin-bottom: 40px;
+    }
+     .footer_heading{
+      color:white;
+      text-decoration:underline;
+      margin-bottom: 60px;
+      margin-left: 25px ;
+
+  }
+  
+     .footer_info_1{
+      font-size: 25px;
+      text-align: center;
+      text-decoration: none;
+     }
+     .footer_link{
+      text-decoration: none;
+      color:white;
+     }
+     .footer_phone{
+      width:30px;
+      height: 30px;
+      position: relative;
+      top: 225px;
+      left: 50px;
+      color:white;
+     }
+     .footer_mail{
+      width:30px;
+      height: 30px;
+      position: relative;
+    top: 268px;
+    left: 20px;
+     }
+     .footer_icons{
+      margin-left: 25px;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+     }
+     .footer_icons:hover{
+    box-shadow: 0px 0px 10px 3px black;
+    background-color: White;
+     }
+     .footer_B{
+      margin-left: 20px;
+      margin-top: 20px;
+     }
+     .footer_heading_1{
+      margin-left: 0px;
+      color: white;
+      text-decoration: underline;
+      margin-bottom: 60px;
+  
+     }
+     .footer_info_2{
+      margin-left: 10px;
+      font-size: 20px;
+      color:white;
+     }
+     
+  
+         

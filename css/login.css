@@ -1,0 +1,124 @@
+body{
+    background-image:url('./../images/loginbgimg.png') ;
+}
+.shape{
+    background-color:white;
+    height:520px;
+    width:350px;
+    border:1px solid white;
+    box-shadow: 0 0 15px 3px rgb(14, 14, 14);
+    border-radius: 0 50px 0 50px;
+    border-width:3px;
+    margin-left: 800px;
+    margin-top: 10px;
+}
+.login{
+   text-align: center;
+   font-size: 40px;
+   text-decoration: underline;
+}
+
+.name{
+    width: 80%;
+    margin-left: 20px;
+    padding: 10px 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    border-radius: 10px;
+    
+}
+ .name1{
+    margin-left: 85px;
+    font-size: 18px;
+ }
+ .btn_login{
+width: 100px;
+height: 40px;
+font-size: 20px;
+border:2px solid rgb(12, 78, 149);
+box-shadow: 0px 0px 5px 5px  ;
+border-radius: 5px;
+margin-left: 100px;
+text-align: center;
+}
+.btn_login:hover{
+    background-color: rgb(9, 126, 126);
+    color:white
+}
+
+
+
+
+
+  .footer{
+      display: flex;
+      position: relative;
+     background-color:rgb(7, 95, 98);
+   margin-top: 12px;
+     height: 400px;
+     }
+     
+     .footer_A{
+      width: 280px;
+      height: 210px;
+      margin-bottom: 100px;
+     }
+     .footer_heading{
+      color:white;
+      text-decoration:underline;
+      margin-bottom: 60px;
+      margin-left: 25px ;
+  }
+  
+     .footer_info_1{
+      font-size: 25px;
+      text-align: center;
+      text-decoration: none;
+     }
+     .footer_link{
+      text-decoration: none;
+      color: white;
+     }
+     .footer_phone{
+      width:30px;
+      height: 30px;
+      position: relative;
+      top: 250px;
+      left: 50px;
+      color:white;
+     }
+     .footer_mail{
+      width:30px;
+      height: 30px;
+      position: relative;
+    top: 330px;
+    left: 20px;
+    color:white;
+     }
+     .footer_icons{
+      margin-left: 25px;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+     }
+     .footer_icons:hover{
+    box-shadow: 0px 0px 10px 3px black;
+     }
+     .footer_B{
+      margin-left: 20px;
+      margin-top: 20px;
+     }
+     .footer_heading_1{
+      margin-left: 0px;
+      color: white;
+      text-decoration: underline;
+      margin-bottom: 60px;
+  
+     }
+     .footer_info_2{
+      margin-left: 10px;
+      font-size: 20px;
+      color:white;
+     }
+  
+     

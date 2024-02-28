@@ -1,0 +1,28 @@
+
+
+   body{
+    margin: 0;
+    padding: 0;
+    
+    }
+
+
+    .navbar{
+      background-color:rgb(7, 95, 98);
+      padding: 20px;
+      text-align: center;
+      }
+      .head{
+          text-decoration: none;
+          padding: 15px;
+          color:white;
+          font-size: 35px;
+      }
+      .head:hover{
+          background-color:white;
+          border-radius: 15px;
+          color:black;
+      }
+      
+      
+      

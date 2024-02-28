@@ -1,0 +1,139 @@
+
+.img-book{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+    .name_book{
+        text-align: center;
+        color:rgb(18, 106, 106);
+        margin-top: 30px;
+        font-size: 45;
+
+    }
+
+    
+
+    .name-book-info{
+        margin-top: 90px;
+        font-size:35px;
+        color:tomato;
+        text-align:center
+    }
+    
+    .Clients{
+        text-align: center;
+        font-size: 40px;
+        text-decoration: underline ;
+        color:rgb(39, 17, 120);
+    }
+
+    .cards{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content:space-around;
+        
+    }
+    .card_d{
+        border-radius: 10px;
+        width: 250px;
+        height: 395px;
+        overflow: hidden;
+        padding: 5px 7px;
+        margin-top: 60px;
+        box-shadow: 0px 0px 15px 3px black;
+        text-align: center;
+        
+    }
+    .card_d img{
+        border-radius: 10px;
+        width: 250px;
+        height: 170px;
+    }
+    .name{
+        font-family: 'Poppins', sans-serif;
+        font: 20px; 
+        font-size: 25px;
+         margin-top: 10px;
+    }
+    .info1{
+        font-size: 17px;
+        font-weight: 200;
+        margin-top: 10px;
+        text-align: justify;
+        padding: 0px 5px;
+    }
+    
+
+    .footer{
+        display: flex;
+        position: relative;
+       background-color:rgb(7 95 98);
+       height: 400px;
+       margin-top:40px;
+       }
+       
+       .footer_A{
+        width: 600px;
+        height: 210px;
+        padding: 20px;
+        margin-top: 10px;
+        margin-bottom: 40px;
+       }
+       .footer_heading{
+        color: white;
+        text-decoration:underline;
+        margin-bottom: 60px;
+        margin-left: 25px ;
+    }
+    
+       .footer_info_1{
+        font-size: 25px;
+        text-align: center;
+        text-decoration: none;
+       }
+       .footer_link{
+        text-decoration: none;
+        color: white;
+       }
+       .footer_phone{
+        width:30px;
+        height: 30px;
+        position: relative;
+        top: 280px;
+        left: 50px;
+        color: white;
+       }
+       .footer_mail{
+        width:30px;
+        height: 30px;
+        position: relative;
+      top: 330px;
+      left: 20px;
+       }
+       .footer_icons{
+        margin-left: 25px;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+       }
+       .footer_icons:hover{
+      box-shadow: 0px 0px 10px 3px white;
+       }
+       .footer_B{
+        margin-left: 20px;
+        margin-top: 20px;
+       }
+       .footer_heading_1{
+        margin-left: 0px;
+        color: white;
+        text-decoration: underline;
+        margin-bottom: 60px;
+    
+       }
+       .footer_info_2{
+        margin-left: 10px;
+        font-size: 20px;
+        color: white;
+       }
+    
+       

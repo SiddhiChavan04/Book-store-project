@@ -1,0 +1,128 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    padding-bottom: 50px;
+    
+}
+.card_d{
+    border-radius: 10px;
+    width: 290px;
+    height: 480px;
+    overflow: hidden;
+    padding: 5px 7px;
+    margin-top: 60px;
+    box-shadow: 0px 0px 15px 3px black;
+    text-align: center;
+    
+}
+.card_d img{
+    border-radius: 10px;
+    width: 290px;
+    height: 190px;
+}
+.name{
+    font-size: 25px;
+     margin-top: 10px;
+     text-align: center;
+     color:black;
+}
+.info1{
+    text-align: justify;
+    font-size: 18px;
+}
+.btn{
+    font-size: 25px;
+    margin-top: 10px;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    color: black;
+    border:2px solid rgb(50, 56, 235);
+    box-shadow: 0px 0px 6px 4px #ccebff;
+    border-radius: 5px;
+    margin-left: 5px;
+
+}
+.btn:hover{
+    background-color: aquamarine;
+    box-shadow: 0 0 5px 5px;
+}
+.NAME{
+    text-align: center;
+    font-size: 45px;
+    color:rgb(76, 18, 131)
+}
+
+
+.footer{
+    display: flex;
+    position: relative;
+   margin-top: 120px;
+   background-color:rgb(7 95 98);
+   height: 400px;
+   }
+   
+   .footer_A{
+    width: 280px;
+    height: 210px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+   }
+   .footer_heading{
+    color: white;
+    text-decoration:underline;
+    margin-bottom: 60px;
+    margin-left: 25px ;
+}
+
+   .footer_info_1{
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+   }
+   .footer_link{
+    text-decoration: none;
+    color: white;
+   }
+   .footer_phone{
+    width:30px;
+    height: 30px;
+    position: relative;
+    top: 225px;
+    left: 50px;
+    color: white;
+   }
+   .footer_mail{
+    width:30px;
+    height: 30px;
+    position: relative;
+    top: 268px;
+    left: 20px;
+   }
+   .footer_icons{
+    margin-left: 25px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+   }
+   .footer_icons:hover{
+  box-shadow: 0px 0px 10px 3px white;
+   }
+   .footer_B{
+    margin-left: 20px;
+    margin-top: 20px;
+   }
+   .footer_heading_1{
+    margin-left: 0px;
+    color: white;
+    text-decoration: underline;
+    margin-bottom: 60px;
+
+   }
+   .footer_info_2{
+    margin-left: 10px;
+    font-size: 20px;
+    color: white;
+   }
